@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #dddddd;
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  padding: 8px;
+}
+</style>
+</head>
+<body>
+
+<ul>
+  <li><a href="#home">Home</a></li>
+  <li><a href="#project">project</a></li>
+  <li><a href="#contact">Contact</a></li>
+  <li><a href="#about">About</a></li>
+</ul>
+<img src ="https://amperevehicles.com/storage/images/magnus%20ex/with%20model/magnus_ex_header.png" alt="LA">
+<P>Ampere Magnus EX is an electric scooter available at a starting price of Rs. 75,703 in India. It is available in only 1 variant and 3 colours. Ampere Magnus EX generates 1200 W power from its motor. With both front and rear drum brakes, Ampere Magnus EX comes up with combined braking system of both wheels.
+
+Magnus EX is an electric scooter from Ampere by Greaves. This electric scooter is powered by a 1,200-watt electric motor. The Magnus EX is claimed to accelerate from 0-55kmph in 10 seconds and boasts a top-speed of 55kmph. The 60V/28Ah battery pack promises a range of 84km per charge (as per standard testing conditions at ARAI). The charging time is rated at five to six hours.</P>
+</body>
+</html>
